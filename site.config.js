@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '木林森|个人简介',
+  name: '木杉 | 个人简介',
   domain: 'https://cat-guard.notion.site/9e1ede36dc8b4a69a6aaae4a1e16de7a',
-  author: '木林森',
+  author: '木杉',
 
   // open graph metadata (optional)
   description: 'Example site description',
